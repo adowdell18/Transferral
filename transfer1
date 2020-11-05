@@ -2,3 +2,82 @@
   https://us02web.zoom.us/j/89463119715?pwd=bkZXbjFZWGx1L2xxYkFnYXZIekloUT09 
   
   
+  
+  * Jonathan’s Metrics on Predicted amount of data needed
+* Cronbach Sampling Technique (in order t predicted necessary number of samples)
+    * Almost like a p value chart
+* Domain level confusion matrix
+    * reduce level of noise
+* 500,000 vs 1,000,000 —> 50 to 300 (see Cronbach recommendations)
+    * Formula Visualizations
+* Attention Mechanism
+* Previous Annotation Techniques no longer used - highlight text and classify (binary decisions)
+* Self supervised/unsupervised system
+* Hyper-parameter finetuning stages
+* Conversational Discourse Architecture
+    * Network of Networks
+    * Attention Mechanisms
+    * Cluster Analyses
+* Regular Expressions
+    * Failure Rate
+    * Embed backinto system
+    * Right Training
+    * Directionally useful intent accuracy
+    * 80 classes vs 140 classes 
+* Payment related FAQs domain - focus on all high volume faqs with high semantic overlap
+* Discovery Mode
+* 750K conversations 
+* 777,000 relatively small sample
+* distribution across target classes
+* Jonthan’s questions- understanding dashboard.
+* COVA conversational. topic distribution by domain
+    * Existing + Existing + ML Labels
+    * Code to GitHub ask developer
+    * go find guy’s —> code snippet
+* Live chats
+    * 100 K
+    * 650 K 
+    * Examples of Values
+* Github 
+    * code ready workspace
+    * process diagram
+* Re-analysis
+    * Precision recall value updates
+    * Non-verbal Cues
+* Non sensical form non-expert human perspective - system classifies correctly
+* compared error rates between systems models
+    * Retrieve classification report for my system
+        * Overall
+        * By domain
+* Comparison of unsupervised models 
+* Comparsison of supervised models
+* -Comparison of semi-supervised model
+* Benchmarks
+* Citi Internal AI classfications
+* Comparing semi  (non-end to end) automated traditional ML to deep learning ML classification system/architectures
+* Entropy- Perplexity/Bleu Measures - by domain - low level of entropy amongst classes
+* Formulating a Citi Turing Test
+    * comparison Cognitive AI Deep Learning ML system performance to
+    * Human Expert Performance to
+    * non-end to end semi supervised
+* Regression Testing phase
+    * Baseline Metrics
+* Building Demo 
+* Revisit Quality Control Benchmarks
+* NAIVE BAYES
+* IMB WATSON
+    * COSINE
+    * TF IDF
+    * KEY WORD ENCODING
+    * EXPERIMENTING
+    * context and domain working
+* retrieve CAG
+    * more related to financial terms
+* Containment
+
+
+
+
+
+  
+  
